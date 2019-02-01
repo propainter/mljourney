@@ -5,7 +5,7 @@
 
 
 # Prepare to Demonstrate these Technical Skills
-Here are the essential skills that a Machine Learning Engineer needs, as mentioned in the first video of this lesson. Within each group are topics that you should be familiar with.
+Here are the essential skills that a Machine Learning Engineer needs. Within each group are topics that you should be familiar with.
 
 Study Tip: Copy and paste this list into a document and save to your computer for easy referral.
 
