@@ -1,0 +1,213 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Hieu Do - Resume
+% 7/26/2016
+%
+% Reference:
+% Debarghya Das (http://debarghyadas.com)
+
+\documentclass[]{hieudo-build}
+
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     TITLE NAME
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\namesection{Himanshu Gautam}
+{\urlstyle{same}
+	\faEnvelope \href{mailto:himanshugnsit@gmail.com}{ himanshugnsit@gmail.com}\\	
+    % \faEnvelope \href{mailto:himanshugnsit@gmail.com}{ himanshugnsit@gmail.com}\\	
+	\faGithub \href{https://github.com/himanshu81494}{   github.com/himanshu81494}\\
+	\faLinkedinSquare \href{https://www.linkedin.com/in/h1manshu/}{ linkedin.com/in/h1manshu}\\
+    \faPhone { +91 - 9319581605}\\
+    \faPhone { +91 - 8700142553}
+}
+    
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN ONE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{minipage}[t]{0.34\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Education} 
+
+\subsection{Netaji Subhas Institute      of Technology}
+\descript{Delhi University}
+B.E. in Computer Engineering \\
+Class of 2017 \\
+GPA: 7.9\\
+\sectionsep
+
+\subsection{Delhi Public School, Dwarka}
+Central Board of Secondary Education, 2012 \\
+Percentage: 89.2\% \\
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Skills}
+% \subsection{Programming}
+\location{Languages:}
+C++, Core Java, Python, JavaScript\\ 
+
+\location{Frameworks:}
+SpringBoot, Flask, ReactJS, CodeIgniter, BootStrap, Hibernate \\
+
+\location{OS:}
+Linux, Mac
+
+\location{Databases \& Cache:}
+MongoDB, SQL, Redis \\
+
+\location{Tools:}
+Git, Vim, Jmeter, Docker, ELK\\
+
+% \sectionsep
+% \subsection{Languages}
+% \location{Native fluency:} English, Vietnamese\\
+\sectionsep
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% %     HACKATHONS
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \section{Hackathons}
+% HackMIT \textbullet{} hackNY \\
+% WearHacks NY \textbullet{} Hackademics VN \\
+% \sectionsep
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     COURSEWORK
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Coursework}
+Data Structure \\
+Algorithms \\
+Discrete Mathematics \\
+Artificial Intelligence \\
+Computer Architecture \\
+Computer Networking \\
+Data Analysis \\
+Object-Oriented Programming\\
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     ADDITIONAL INFORMATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \section{Activities}
+% NYU Tandon Honors Program\\
+% Tech@NYU - Freshman Circuit \\
+% The Westminster News \\
+% \sectionsep
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% %     AWARDS
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% \section{Awards} 
+% Dean's List\\
+% NYU PROMISE Scholarship\\
+% Shelby C. Davis Scholarship\\
+% President’s Circle Scholarship\\
+% \sectionsep
+
+\sectionsep
+% \DTMsetdatestyle{mylastupdate}
+% \DTMdisplaydate{\the\year}{\the\month}{\the\day}{-1}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN TWO
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{minipage} 
+\hfill
+\begin{minipage}[t]{0.65\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Experience}
+
+\workplace{Infoedge – Software Developer}{Jun 2017 – present}\\
+% \position{Database Engineer Intern}{New York, NY}
+\vspace{0.9em} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Developing and migrating old features in SOA for Logging Tracking Service at Jeevansathi.
+\item Implemented and deployed on production automated screening of "About Me" section using machine learning based algorithms (accuracy above 93\% fraud and abuse detection).
+\item Integrated ELK (Elastic, Logstash and Kibana) stack with Filebeat, a Log Monitoring Tool which
+helps in visualizing all application logs making Root Cause Analysis of various problems very easy.
+Added deletion, compression and backup features to the stack. Developed SMS, Slack and Email based
+alert system, if errors on site increases by a threshold.
+\end{tightemize}
+\sectionsep
+
+\workplace{99acres.com}{Apr 2017 – Jun 2017} \\
+\position{Intern Software Developer}{}
+% \vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Developed improved version of View Similar Property recommendation system for listing to be shown on property description page. Worked closely with Product and Data Analytics team to come up with optimized way to show VSP.
+\end{tightemize}
+\sectionsep
+
+% \workplace{INSPI Corp – ZenQuiz Team }{Jun 2015 – Aug 2015} \\
+% \position{Software Engineer Intern}{Ho Chi Minh City, Vietnam}
+% % \vspace{\topsep} % Hacky fix for awkward extra vertical space
+% \begin{tightemize}
+% \item Built a Question \& Answer platform for 10,000,000+ users.
+% \item Implemented the frontend features and backend server using MongoDB, ExpressJS, AngularJS, and NodeJS (MEAN stack)
+% \end{tightemize}
+% \sectionsep
+
+% \runsubsection{The Westminster News} \\
+% \descript{Co-Editors-in-Chief (2014) | Layout Editor (2012) }
+% \location{Sep 2012 – May 2015 | Simsbury, CT}
+% \begin{tightemize}
+% \item Led 30+ staff at a 400-student boarding school to publish the monthly school newspaper.
+% \item Consulted in layout design and technology application.
+% \end{tightemize}
+% \sectionsep
+
+% \runsubsection{VietAbroader Organization} \\
+% \descript{Program Assistant Manager | VAPedia Associate }
+% \location{Mar 2013 – Mar 2014 | Ho Chi Minh City, Vietnam}
+% \begin{tightemize}
+% \item VietAbroader is a non-profit organization run by Vietnamese students abroad.
+% \item Designed the high school content for the VAPedia website.
+% \item Assisted in recruiting guest speakers and volunteers for VietAbroader Study-Abroad Conference 2013.
+% \end{tightemize}
+% \sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     PROJECTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Projects}
+\runsubsection{Celebrity Face Detection}
+\descript{}
+\location{Hackathon, HackTheEdge}
+Celebrity Face Detection system to detect celebrity face in user uploaded image, using Machine Learning based approach.Libraries used include Facenet and SVC Classifier.
+\sectionsep
+
+\runsubsection{Critical Action Layer}
+\descript{}
+\location{Project gone live}
+CAL is framework for generic layer/prompt shown to logged-in user with customized content and Call To Action. 
+Designed and implemented backend api as well as front end code.
+\sectionsep 
+
+\runsubsection{DERMA SCAN}
+\descript{}
+\location{SmartIndiaHackathon 2017}
+Won first runner up prize in SIH. Built a web app (using flask) for Ministry of AYUSH that can help doctors and patients to detect skin disease type by clicking a photo and submitting it.
+\sectionsep
+
+
+\end{minipage} 
+
+\end{document}  
